@@ -55,7 +55,7 @@
             // 
             // TextBox_Center
             // 
-            this.TextBox_Center.Location = new System.Drawing.Point(56, 70);
+            this.TextBox_Center.Location = new System.Drawing.Point(56, 57);
             this.TextBox_Center.Multiline = true;
             this.TextBox_Center.Name = "TextBox_Center";
             this.TextBox_Center.Size = new System.Drawing.Size(286, 197);
@@ -72,7 +72,6 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
